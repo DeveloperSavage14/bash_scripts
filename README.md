@@ -7,8 +7,6 @@ On the command line you need to type in this command to clone my scripts to your
 ```bash
 git clone https://github.com/DeveloperSavage14/bash_scripts.git
 ``` 
-```
-
 ### Scripts in detail
 
 #### Git Setup (git_setup.sh)
