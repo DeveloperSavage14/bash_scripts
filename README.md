@@ -19,7 +19,7 @@ every time and refer back to my memory.
 
 To use git setup you need to run this command.
 ```
-bash git_setup
+bash git_setup.sh
 ```
 Once the command has been run you should be prompted for an input.
 Here you should input the name of your repository on git
