@@ -6,6 +6,5 @@ git init
 git add README.md
 git commit -m "Setup"
 git branch -M main
-read -p "Url of git repositry: " repo
-git remote add origin $repo
+git remote add origin https://github.com/DeveloperSavage14/$name
 git push -u origin main
